@@ -372,6 +372,7 @@ footer .footer_boxs .footer_box:nth-child(1) h5 {
 footer .footer_boxs .footer_box:nth-child(1) p {
   color: #000;
   letter-spacing: 0.96px;
+  margin-bottom: 10px;
 }
 footer .footer_boxs .footer_box:nth-child(1) a {
   color: #000;
