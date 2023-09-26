@@ -21,6 +21,10 @@
   font-family: "Roboto_Regular";
   src: url(../fonts/Roboto/Roboto-Regular.ttf);
 }
+@font-face {
+  font-family: "Ribeye";
+  src: url(../fonts/Ribeye/Ribeye-Regular.ttf);
+}
 footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp, footer .footer_boxs .footer_box:nth-child(1) .footer_icon, footer .footer_boxs .footer_box2, footer .footer_boxs, main .main_many .main_boxs .main_boxs_right .main_box, main .main_many .main_boxs .main_boxs_right, main .main_many .main_boxs, main .main_many, article .article_many .article_footer .article_footer_bg, article .article_many .article_footer, article .article_many .article_boxs .article_box .article_location .article_local_right, article .article_many .article_boxs .article_box .article_location .article_local_left, article .article_many .article_boxs .article_box .article_location, article .article_many .article_boxs .article_box .article_person, article .article_many .article_boxs, article .article_many .article_header, section .section_boxs, header .container .header_many .header_middle ul, header .container .header_many {
   display: flex;
   align-items: center;
@@ -29,7 +33,7 @@ footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp, footer .footer_box
 
 footer .footer_boxs .footer_box:nth-child(1) h5, header .container .header_many .header_left h2 {
   color: #ffffff;
-  font-family: Ribeye;
+  font-family: "Ribeye";
   font-size: 24px;
   font-style: normal;
   font-weight: 400;

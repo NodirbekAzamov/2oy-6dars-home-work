@@ -22,6 +22,10 @@
     font-family: "Roboto_Regular";
     src: url(../fonts/Roboto/Roboto-Regular.ttf);
 }
+@font-face {
+    font-family: "Ribeye";
+    src: url(../fonts/Ribeye/Ribeye-Regular.ttf);
+}
 
 %center_element {
     display: flex;
@@ -30,7 +34,7 @@
 }
 %glabal_element1 {
     color: #ffffff;
-    font-family: Ribeye;
+    font-family: "Ribeye";
     font-size: 24px;
     font-style: normal;
     font-weight: 400;
