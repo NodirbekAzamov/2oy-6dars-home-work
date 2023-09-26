@@ -391,6 +391,7 @@ footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp {
 }
 footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp input {
   padding: 10px 20px;
+  border: 1px solid silver;
 }
 footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp button {
   padding: 10px 32px;
@@ -398,4 +399,5 @@ footer .footer_boxs .footer_box:nth-child(4) .footer_box_inp button {
   background: #C9453B;
   letter-spacing: 0.96px;
   border: none;
+  cursor: pointer;
 }/*# sourceMappingURL=style.css.map */

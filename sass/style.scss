@@ -456,6 +456,7 @@ footer {
 
                 input {
                     padding: 10px 20px;
+                    border: 1px solid silver;
                 }
                 button {
                     @extend %glabal_element3;
@@ -464,6 +465,7 @@ footer {
                     background: #C9453B;
                     letter-spacing: 0.96px;
                     border: none;
+                    cursor: pointer;
                 }
             }
         }
