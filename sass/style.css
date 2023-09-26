@@ -41,7 +41,7 @@ footer .footer_boxs .footer_box:nth-child(1) h5, header .container .header_many 
   letter-spacing: 1.44px;
 }
 
-footer .footer_boxs .footer_box:nth-child(4) h5, main .main_many .main_boxs .main_boxs_right .main_box a, main .main_many .main_boxs .main_boxs_right .main_box h6, main .main_many .main_boxs .main_boxs_left a, main .main_many .main_boxs .main_boxs_left h6, article .article_many .article_boxs .article_box .article_location .article_local_left p {
+footer .footer_boxs .footer_box:nth-child(4) h5, main .main_many .main_boxs .main_boxs_right .main_box a, main .main_many .main_boxs .main_boxs_right .main_box h6, main .main_many .main_boxs .main_boxs_left a, main .main_many .main_boxs .main_boxs_left h6, article .article_many .article_boxs .article_box .article_location .article_local_left a {
   color: #000;
   font-family: "Roboto_Medium";
   font-size: 20px;
@@ -251,7 +251,7 @@ article .article_many .article_boxs .article_box .article_location {
 article .article_many .article_boxs .article_box .article_location .article_local_left {
   gap: 10px;
 }
-article .article_many .article_boxs .article_box .article_location .article_local_left p {
+article .article_many .article_boxs .article_box .article_location .article_local_left a {
   opacity: 0.6;
 }
 article .article_many .article_boxs .article_box .article_location .article_local_left span {

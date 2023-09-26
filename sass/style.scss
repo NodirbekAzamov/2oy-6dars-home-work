@@ -213,7 +213,6 @@ section {
 article {
     width: 100%;
     .article_many {
-        // @extend %center_element;
         flex-direction: column;
         padding-top: 140px;
         .article_header {
@@ -273,7 +272,7 @@ article {
                     .article_local_left {
                         @extend %center_element;
                         gap: 10px;
-                        p {
+                        a {
                             @extend %glabal_element2;
                             opacity: 0.6;
                         }
@@ -286,7 +285,6 @@ article {
                         gap: 10px;
                         p {
                             @extend %glabal_element5;
-                            // text-align: start; 
                         }
                         span {
                             font-size: 25px;
